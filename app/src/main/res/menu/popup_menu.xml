@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item1"
+        android:title="@string/acebo" />
+
+    <item
+        android:id="@+id/item2"
+        android:title="@string/capecenio" />
+
+    <item
+        android:id="@+id/item3"
+        android:title="@string/cinco" />
+
+    <item
+        android:id="@+id/item4"
+        android:title="@string/galve" />
+
+    <item
+        android:id="@+id/item5"
+        android:title="@string/orsal" />
+
+    <item
+        android:id="@+id/item6"
+        android:title="@string/semilla" />
+
+</menu>

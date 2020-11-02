@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Group2PopupMenu</string>
+    <string name="show_popup">show popup</string>
+    <string name="show_group_members">Show Group Members</string>
+    <string name="acebo">Acebo</string>
+    <string name="capecenio">Capecenio</string>
+    <string name="cinco">Cinco</string>
+    <string name="galve">Galve</string>
+    <string name="orsal">Orsal</string>
+    <string name="semilla">Semilla</string>
+</resources>
